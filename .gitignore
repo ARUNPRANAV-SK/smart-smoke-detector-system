@@ -1,0 +1,25 @@
+# Arduino IDE / Build files
+build/
+*.hex
+*.elf
+*.o
+*.d
+*.a
+
+# Local developer/IDE configurations
+.local/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosct
+*.sln
+*.proj
+*.vcxproj
+*.filters
+
+# System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
