@@ -226,7 +226,7 @@ The sensor detects smoke, LPG, and propane reliably. Under baseline clean-air co
 
 ### 🎓 Academic Supervision
 *Department of Electronics and Communication Engineering, Dr. N.G.P. Institute of Technology, Coimbatore.*
-* **Ms. T. Bhuvaneswari, M.E., (Ph.D.)** — *Project Guide & Supervisor (Assistant Professor, Dept. of ECE)*
+* **M. Archana** — *Project Guide & Supervisor (Assistant Professor, Dept. of ECE)*
 * **Dr. P. Sampath, M.E., Ph.D.** — *Head of the Department (Professor, Dept. of ECE)*
 * **Dr. K. Sakthisudhan, M.E., Ph.D.** — *Project Coordinator (Professor, Dept. of ECE)*
 
