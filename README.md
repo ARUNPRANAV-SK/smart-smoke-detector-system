@@ -5,6 +5,10 @@
 [![Field](https://img.shields.io/badge/Field-Electronics%20%26%20Communication%20Engineering-darkblue)](https://drngpit.ac.in/)
 [![Institution](https://img.shields.io/badge/Institution-Dr.%20N.G.P.%20Institute%20of%20Technology-orange)](https://drngpit.ac.in/)
 
+<p align="center">
+  <img src="images/project_thumbnail.png" alt="Smart Smoke Detector System Banner" width="100%">
+</p>
+
 An IoT-ready, hardware-software integrated safety system designed to detect smoke and combustible gases in real time. Leveraging the **MQ-2 Gas Sensor** and an **Arduino/NodeMCU** microcontroller, the system continuously monitors environmental air quality. When gas concentrations exceed a configurable threshold, it triggers immediate visual (warning LEDs) and audible (buzzer) alerts while displaying real-time safety status on an I2C-enabled 16x2 LCD screen.
 
 ---
